@@ -1,11 +1,7 @@
 require 'zettelkasten'
 
-require 'open3'
 require 'json'
 require 'net/http'
-require 'digest/sha1'
-require 'date'
-require 'set'
 
 module Zettelkasten
   class Dynalist

@@ -1,5 +1,7 @@
 require 'zettelkasten'
 
+require 'set'
+
 module Zettelkasten
   class SmolGUID
     # always a string prefix followed by a space

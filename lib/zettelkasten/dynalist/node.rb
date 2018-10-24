@@ -1,3 +1,5 @@
+require 'zettelkasten'
+
 module Zettelkasten
   class Dynalist
     class Node

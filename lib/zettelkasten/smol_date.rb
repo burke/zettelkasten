@@ -1,5 +1,7 @@
 require 'zettelkasten'
 
+require 'date'
+
 module Zettelkasten
   class SmolDate
     def self.current
